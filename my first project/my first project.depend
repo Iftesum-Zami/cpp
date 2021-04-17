@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614712851 source:f:\cpp\my first project\main.cpp
+	<iostream>
+
+1614712853 source:f:\cpp\my first project\variable.cpp
+	<iostream>
+
