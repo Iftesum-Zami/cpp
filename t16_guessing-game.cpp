@@ -9,7 +9,6 @@ int main()
     int guessLimit = 3;
     bool outOfGuesses = false;
 
-
     while(secretNum != guess && !outOfGuesses){
         if(guessCount < guessLimit){
             cout << "Enter Guess: ";
